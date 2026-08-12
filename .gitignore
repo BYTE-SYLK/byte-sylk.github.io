@@ -20,6 +20,5 @@ pnpm-debug.log*
 # macOS-specific files
 .DS_Store
 
-test.mdx
-test.json
-test.txt
+# jetbrains setting folder
+.idea/
